@@ -1,3 +1,10 @@
+/*Fazer um programa para ler um número real(double) é verificar se ele é valido ou não. Um número é válido se estiver entre 0.0 e 200.0, considerar 0 e 200.
+
+Entrada
+A entrada contém um número real(double).
+
+Saída
+Imprima "Valido" ou "Invalido"*/
 import java.util.Scanner;
 
 public class Main
